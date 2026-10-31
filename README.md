@@ -1,11 +1,11 @@
 # 💰 Student Expense Tracker
-https://raunaksingh896.github.io/student-expense-tracker/
-
 
 A simple and responsive web application that helps students
 track and manage their daily expenses.
 
 ## 🚀 Live Demo
+
+https://raunaksingh896.github.io/student-expense-tracker/
 
 Add your live website link here after deploying the project.
 
